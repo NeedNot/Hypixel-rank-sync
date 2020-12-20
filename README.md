@@ -1,0 +1,1 @@
+# Hypixel-rank-sync
