@@ -1,0 +1,9 @@
+name: RankSync
+version: ${project.version}
+main: net.neednot.RankSync
+api-version: 1.16
+commands:
+  rs:
+    description: Rank Sync
+    usage: §cError! Please use /rs reload or /rs guild rank <true/false>
+    permission: rs.use
